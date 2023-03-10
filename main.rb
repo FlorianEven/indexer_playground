@@ -14,6 +14,7 @@ params = {
     per_page: 1,
   },
   filters: [
+    { key: "name", value: "foo"}
   ],
   order: {
     key: "name",
