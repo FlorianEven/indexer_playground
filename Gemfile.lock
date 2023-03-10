@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.6.3)
+    sequel (5.65.0)
+    sqlite3 (1.6.1-x86_64-darwin)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  json
+  sequel
+  sqlite3
+
+BUNDLED WITH
+   2.4.2
